@@ -1,0 +1,3 @@
+Skipping image OS validation for hb__2e36544a079d5161593b164bb5659bd1: docker inspect returned 1
+Collecting main service artifacts
+Trial log-report__dwdk6Vm failed: No reward file found at jobs/2026-07-23__16-40-02/log-report__dwdk6Vm/verifier/reward.txt or jobs/2026-07-23__16-40-02/log-report__dwdk6Vm/verifier/reward.json
